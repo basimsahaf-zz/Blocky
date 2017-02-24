@@ -38,7 +38,8 @@ while True:
             contents=file.readlines() #reads the file line by line and stores each line as an element in a list.
             file.seek(0)
             for i in contents:
-                if not any(website in i for website in website_list):  #checks if the file has string website from website_list
+                if not any(website in i for website in website_list):  #checks if the file has string website 
+                                                                        #from website_list
                     file.write(i)
                 else:
                     pass
