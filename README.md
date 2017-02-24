@@ -15,7 +15,7 @@ A Python program that blocks desired websites.
       • open terminal/command prompt in the same folder.
       
       • type python website_blocker.py in the command line.
-        (For this, you should have python installed on your computer. For more information, visit http://www.python.org)
+        (For this, you must have python installed on your computer. For more information, visit http://www.python.org)
       
       • The desired websites will now be blocked.
       
