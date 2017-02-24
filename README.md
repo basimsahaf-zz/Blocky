@@ -9,7 +9,6 @@ A Python program that blocks desired websites.
       • open the file: website_blocker.py in any text editor.
       
       • add the desired websites to the program and change the working hours by
-      
         following the instructions given in the code and save the file.
         
       • open terminal/command prompt in the same folder.
